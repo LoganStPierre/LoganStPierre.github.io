@@ -1,4 +1,3 @@
-<!DOCTYPE HTML >
 <HTML lang="en">
    <HEAD>
       <TITLE></TITLE>
